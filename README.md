@@ -72,54 +72,51 @@ Absolute evaluation will be used for this course.
 
 ## Schedule (TBA)
 
-<!--Week  | Video lectures | Class | Chapters 
+Week  | Video lectures | Class | Chapters 
 ------| ------ | ----- | --------
 **Week 1** |
-3/4  | [V00: Class intro](https://www.youtube.com/watch?v=7P6_MLVpQc0&feature=youtu.be) | Course overview | Survey (this will be posted later)<br> | 
-3/6  | [V01: Data](https://youtu.be/hkMrXhG0ot0) | Cognitive errors! | Ch.1-2  |
+3/2  | [V00: Class intro](https://www.youtube.com/watch?v=7P6_MLVpQc0&feature=youtu.be) | Course overview | Survey (this will be posted later)<br> | 
+3/4  | [V01: Data](https://youtu.be/hkMrXhG0ot0) | Cognitive errors! | Ch.1-2  |
 **Week 2** | | | |
-3/11 | [V02: Data visualization](https://youtu.be/Dip7moX2FDQ) | Data visualization | Ch.3-4  |
-3/13 | [V03: Comparing distribution](https://youtu.be/XDThj7Rk1Fo) <br> Note: I made both V03 and V04 into one video (accidentally). Watch only 14 mins of the video. | Smoothing, re-expressing data | Ch.5  |
+3/9 | [V02: Data visualization](https://youtu.be/Dip7moX2FDQ) | Data visualization | Ch.3-4  |
+3/11 | [V03: Comparing distribution](https://youtu.be/XDThj7Rk1Fo) <br> Note: I made both V03 and V04 into one video. Watch only 14 mins of the video. | Smoothing, re-expressing data | Ch.5  |
 **Week 3** | | | |
-3/18 | [V04: Normal model](https://youtu.be/XDThj7Rk1Fo?t=838) |  P-P plot | Ch.6  |
-3/20 | [V05: Scatterplots and correlation](https://youtu.be/nF0XT4rCzKU) <br> Please complete [Quiz]() |  Scatterplots and correlation | Ch.7  |
+3/16 | [V04: Normal model](https://youtu.be/XDThj7Rk1Fo?t=838) |  P-P plot | Ch.6  |
+3/18 | [V05: Scatterplots and correlation](https://youtu.be/nF0XT4rCzKU) <!--<br> Please complete [Quiz]()--> |  Scatterplots and correlation | Ch.7  |
 **Week 4** | | | |
-3/25 | [V06: Linear regression](https://www.youtube.com/watch?v=iWz45GWlRD0&t=0s&index=7&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28) <br> Please complete [Quiz]()|  Regression to the mean | Ch.8  |
-3/27 | [V07: More about regression, re-expressing data](https://www.youtube.com/watch?v=evfC8aznCHM&t=0s&index=8&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28) <br> Please complete [Quiz]() |  The effects of outlier on the regression | Ch.9-10  |
+3/23 | [V06: Linear regression](https://www.youtube.com/watch?v=iWz45GWlRD0&t=0s&index=7&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28) <!--<br> Please complete [Quiz]()-->|  Regression to the mean | Ch.8  |
+3/25 | [V07: More about regression, re-expressing data](https://www.youtube.com/watch?v=evfC8aznCHM&t=0s&index=8&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28) <!--<br> Please complete [Quiz]()--> |  The effects of outlier on the regression | Ch.9-10  |
 **Week 5** | | | |
-4/1 | [V08: Sampling](https://youtu.be/uqkUIkZhf_Y) <br> Please complete [Quiz]()|  Design experiments! | Ch.12-13  |
-4/3 | [V10: Probability and bayes theorem](https://www.youtube.com/watch?v=pu4YeWys4s4) <br> Please complete [Quiz]()|  Bayes theorem | Ch.14-15  |
+3/30 | [V08: Sampling](https://youtu.be/uqkUIkZhf_Y) <!--<br> Please complete [Quiz]()-->|  Design experiments! | Ch.12-13  |
+4/1 | [V10: Probability and bayes theorem](https://www.youtube.com/watch?v=pu4YeWys4s4) <!--<br> Please complete [Quiz]()-->|  Bayes theorem | Ch.14-15  |
 **Week 6** | | | |
-4/8 | [V11: Random variables](https://youtu.be/IvwQHuMiTm0) <br> Please complete [Quiz]() |  Random variables | Ch.16  |
-4/10 | [V12: Probability models](https://youtu.be/nROQGQtqECA) <br> Please complete [Quiz]()|  Probability models | Ch.17  |
+4/6 | [V11: Random variables](https://youtu.be/IvwQHuMiTm0) <!--<br> Please complete [Quiz]()--> |  Random variables | Ch.16  |
+4/8 | [V12: Probability models](https://youtu.be/nROQGQtqECA) <!--<br> Please complete [Quiz]()-->|  Probability models | Ch.17  |
 **Week 7** | | | |
-4/15 | [V13: JAMOVI](https://www.youtube.com/playlist?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn) <br> [V14: JASP](https://www.youtube.com/channel/UCSulowI4mXFyBkw3bmp7pXg) |  JAMOVI and JASP practice [in-class video](https://youtu.be/K8G9qFm_2gw) <br> Link for [Data collection](https://forms.gle/PKj6YMMTkvwj2cfE7)| -  |
-4/17 | Review <br> Please post your [questions]()  |  Q & A | -  |
+4/13 | [V13: JAMOVI](https://www.youtube.com/playlist?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn) <br> [V14: JASP](https://www.youtube.com/channel/UCSulowI4mXFyBkw3bmp7pXg) |  JAMOVI and JASP practice [in-class video](https://youtu.be/K8G9qFm_2gw) <!--<br> Link for [Data collection](https://forms.gle/PKj6YMMTkvwj2cfE7)-->| -  |
+4/15 | No class (선거일)
 **Week 8** | | | |
-4/22, 24 | Mid-term |  - | -  |
+4/20 or 4/22 | Review & Mid-term |  - | -  |
 **Week 9** | | | |
-4/29 | No Video today |  [L14: Sampling distribution, central limit theorem](https://youtu.be/KP26FzvZL7o) | Ch.18  |
-5/1  | [V15: Confidence interval for proportions](https://youtu.be/X1AYVK1Sqv4) <br> Please complete [Quiz]() |  Central limit theorem <br> [Link1](https://docs.google.com/spreadsheets/d/1f5n1E9nmATFra9Yb7D86ru2zf1RSxq0ipDZuSoVrOYM/edit?usp=sharing) [Link2](https://docs.google.com/spreadsheets/d/1G7nDs-IXWq2QpYl4M-iyJ3sTOrcEOLXdKGLt-jqy9M8/edit?usp=sharing) <br> [Wani research slide](/activities/brain_show_woo.pdf)| Ch.19  |
+4/27 | [V14: Sampling distribution, central limit theorem](https://youtu.be/KP26FzvZL7o) | TBA | Ch.18  |
+4/29  | [V15: Confidence interval for proportions](https://youtu.be/X1AYVK1Sqv4) <!--<br> Please complete [Quiz]()--> |  Central limit theorem <!--<br> [Link1](https://docs.google.com/spreadsheets/d/1f5n1E9nmATFra9Yb7D86ru2zf1RSxq0ipDZuSoVrOYM/edit?usp=sharing) [Link2](https://docs.google.com/spreadsheets/d/1G7nDs-IXWq2QpYl4M-iyJ3sTOrcEOLXdKGLt-jqy9M8/edit?usp=sharing) <br> [Wani research slide](/activities/brain_show_woo.pdf)-->| Ch.19  |
 **Week 10** | | | |
-5/6 | No class (어린이날 대체공휴일) |  |  |
-5/8 | [V16: Hypothesis testing, P-values](https://youtu.be/WyIAZ9HxpfI) <br> Please complete [Quiz](https://forms.gle/T6St1Fh2YagCPXT87) | Let's watch V17 together [V17: Inferences about means](https://youtu.be/Hkl0__0kLh0) <br> NHST and P-value | Ch.21-22  |
+5/4 | [V16: Hypothesis testing, P-values](https://youtu.be/WyIAZ9HxpfI) <!--<br> Please complete [Quiz](https://forms.gle/T6St1Fh2YagCPXT87)--> | TBA | |
+5/6 | [V17: Inferences about means](https://youtu.be/Hkl0__0kLh0) | TBA | Ch.21-22  |
 **Week 11** | | | |
-5/13 | No class |  - |  -  |
-5/15 | [V18: More about tests and intervals](https://www.youtube.com/watch?v=Pk6UYTqb7ls&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=18&t=0s) <br> Please complete [Quiz](https://forms.gle/Mdvmi1t4w8VJi98D8) for V18 <br> [V19:Comparing groups](https://www.youtube.com/watch?v=uRPJtGoMI2A&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=19&t=0s) <br> Please complete [Quiz](https://forms.gle/xcYNxdsrq9ZtPC796) for V19  | Q&A, Confidence interval, T-test I  | Ch.23-24  |
+5/11 | [V18: More about tests and intervals](https://www.youtube.com/watch?v=Pk6UYTqb7ls&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=18&t=0s) <!--<br> Please complete [Quiz](https://forms.gle/Mdvmi1t4w8VJi98D8) for V18-->  | | Ch. 23|
+5/13 | [V19:Comparing groups](https://www.youtube.com/watch?v=uRPJtGoMI2A&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=19&t=0s) <!--<br> Please complete [Quiz](https://forms.gle/xcYNxdsrq9ZtPC796) for V19-->  | | Ch. 24  |
 **Week 12** | | | |
-5/20 | [V20: Paired t-test](https://youtu.be/OniGJUnPwVw) <br> Please complete [Quiz](https://forms.gle/vpVJTessZomw79yQ6) | T-test II  | Ch.25  |
-5/22 | No class (festival; 자인전) |  -  | -  |
+5/18 | [V20: Paired t-test](https://youtu.be/OniGJUnPwVw) <!--<br> Please complete [Quiz](https://forms.gle/vpVJTessZomw79yQ6)--> | T-test II  | Ch. 25  |
+5/20 | L21: Comparing counts  | lecture and Q&A | Ch. 26  |
 **Week 13** | | | |
-5/27 | [V21] Comparing counts  | lecture and Q&A | Ch.26  |
-5/29 | [V22: Review: Inferences about regression](https://www.youtube.com/watch?v=YEO5UAjRwsk) <br> Please complete [Quiz](https://forms.gle/mbWx5yXBXG2oWfKv8) for V22 <br> [V23: Analysis of Variance (ANOVA)](https://youtu.be/7M6XG5IviUk)  <br> Please complete [Quiz](https://forms.gle/GwWA9jnqbMrmzM379) for V23| Watch the video lecture together and solve quiz together  | Ch.27-28  |
+5/25 | [V22: Inferences about regression](https://www.youtube.com/watch?v=YEO5UAjRwsk) <!--<br> Please complete [Quiz](https://forms.gle/mbWx5yXBXG2oWfKv8) for V22--> | | Ch. 27 |
+5/27 | [V23: Analysis of Variance (ANOVA)](https://youtu.be/7M6XG5IviUk)  <!--<br> Please complete [Quiz](https://forms.gle/GwWA9jnqbMrmzM379) for V23-->|  | Ch. 28  |
 **Week 14** | | | |
-6/3 | [V24: Multifactor ANOVA](https://youtu.be/Uxc2vO_QZjo) <br> Please complete [Quiz](https://forms.gle/F85K1jEFTBX8UJnX8)| TBD (led by Lada) | Ch.29  |
-6/5 | [V25: Multiple regression](https://youtu.be/a44guv3Zmkg) <br> [Quiz](https://forms.gle/TAjUiG3gPXufKyiA9) for V25 <br> [V26: Multiple regression wisdom](https://youtu.be/d6OzuWV2wks) <br> [Quiz](https://forms.gle/ov7ycxnP1N3aeRBNA) for V26 | Review  | Ch.30-31  |
+6/1 | [V24: Multifactor ANOVA](https://youtu.be/Uxc2vO_QZjo) <br> Please complete [Quiz](https://forms.gle/F85K1jEFTBX8UJnX8)| TBA | Ch.29  |
+6/3 | [V25: Multiple regression](https://youtu.be/a44guv3Zmkg) <!--<br> [Quiz](https://forms.gle/TAjUiG3gPXufKyiA9) for V25--> <br> [V26: Multiple regression wisdom](https://youtu.be/d6OzuWV2wks) <!--<br> [Quiz](https://forms.gle/ov7ycxnP1N3aeRBNA) for V26--> | Review  | Ch.30-31  |
 **Week 15** | | | |
-6/10 | Review (led by Hongji) <br> [Link](https://forms.gle/vxwHh1QvD7KEDJmp9) for submitting the review questions <br> (please complete the submission until Friday 6PM) | - | -  |
-6/12 | No class | - | -  |
-**Week 16** | | | |
-6/17, 19 | Final |  - | -  |-->
+6/8, 6/10 | Review & Final | | |
 
 <!--_Note._ <br> I will be out of town on 5/13, 6/10, 6/12 for conferences. Weekly plan described above can be adjusted as our class develops. -->
 
